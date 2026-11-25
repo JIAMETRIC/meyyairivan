@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://meyyairivan.com/sitemap.xml
+Sitemap: https://www.meyyairivan.com/sitemap.xml
